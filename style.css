@@ -43,16 +43,10 @@
     gap: 50px;
 }
 
-.star-wars {
+.img {
     height: 500px;
     width: 600px;
 }
-
-.pizza {
-    height: 500px;
-    width: 600px;
-}
-
 
 .technologies {
     display: flex;
