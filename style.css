@@ -26,7 +26,10 @@
 }
 
 .sub-header {
+    margin-left: 250px;
+    margin-right: 250px;
     display: flex;
+    justify-content: center;
 }
 
 .host-pic {
@@ -47,4 +50,9 @@
 .pizza {
     height: 500px;
     width: 600px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
 }
