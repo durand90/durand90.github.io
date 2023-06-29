@@ -48,6 +48,10 @@
     width: 600px;
 }
 
+.technology {
+    text-align: center;
+}
+
 .technologies {
     display: flex;
     justify-content: space-evenly;
