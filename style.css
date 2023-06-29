@@ -1,6 +1,6 @@
 
 .row {
-    background-color: green;
+    /* background-color: green; */
     display: flex;
     justify-content: center;
 }
@@ -11,6 +11,14 @@
     padding:  10px;
     margin: 10px;
     border: 1px solid #000;
+    background-color: lightyellow;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px #555;
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
 }
 
 .header {
