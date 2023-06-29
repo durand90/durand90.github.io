@@ -53,6 +53,11 @@
     width: 600px;
 }
 
+
+.technologies {
+    display: flex;
+}
+
 .footer {
     display: flex;
     justify-content: space-evenly;
