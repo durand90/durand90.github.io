@@ -15,10 +15,18 @@
 }
 
 .shadow {
-    box-shadow: 7px 7px 7px 2px #555;
+    box-shadow: 0 9px 9px #999;
+    background-color: #999;
+    border-radius: 15px;
     position: relative;
     bottom: 5px;
     cursor: pointer;
+}
+
+.shadow:active {
+    background-color: #999;
+    box-shadow: 0 3px 3px #666;
+    transform: translateY(4px);
 }
 
 .header {
@@ -51,6 +59,24 @@
 .technologies {
     display: flex;
     justify-content: space-evenly;
+}
+
+.lan-btn {
+    /* width: 75px; */
+    /* height: 40px;
+    padding:  10px;
+    margin: 10px; */
+    /* border: 1px solid #000; */
+    /* background-color: lightyellow; */
+}
+
+.lan-shadow {
+    box-shadow: 0 9px 9px #999;
+    background-color: #999;
+    border-radius: 15px;
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
 }
 
 .footer {
