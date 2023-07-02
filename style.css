@@ -160,6 +160,17 @@ h3 {
 
 .reach-me {
     margin-top: 40px;
+    margin-bottom: 0;
+}
+
+/* .base-foot {
+    margin-top: 40px;
+    border: solid #666;
+} */
+
+.base-foot {
+    border: 0ch;
+    box-shadow: 0 9px 9px 9px grey;
 }
 
 .footer {
@@ -167,7 +178,6 @@ h3 {
     justify-content: space-evenly;
     border-radius: 15px;
     gap: 50px;
-    margin-top: 30px;
 }
 
 .phone-number {
