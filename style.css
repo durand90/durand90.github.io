@@ -3,6 +3,7 @@
     /* background-color: green; */
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 .sub {
@@ -71,7 +72,7 @@
 
 .sub-inner {
     align-content: center;
-    margin-left: 45px;
+    margin-left: 35px;
 }
 
 
@@ -84,4 +85,6 @@
 .footer {
     display: flex;
     justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 150px;
 }
