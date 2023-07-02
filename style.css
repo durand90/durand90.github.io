@@ -51,6 +51,7 @@ h3 {
     margin-right: 250px;
     display: flex;
     gap: 250px;
+    background-color: orange;
 }
 
 .hello-world {
@@ -58,6 +59,7 @@ h3 {
     height: 380px;
     padding-top: 10px;
     border-radius: 15px;
+    background-color: green;
 }
 
 .host-pic {
