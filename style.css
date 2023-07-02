@@ -1,9 +1,9 @@
 
 
-/* .container {
-    position: relative;
-    border: 1px solid red;
-} */
+.container {
+    background-image: url("port-pic2.jpg");
+    margin: 0;
+}
 
 .row {
     /* background-color: green; */
