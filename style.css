@@ -3,9 +3,9 @@
 }
 
 .inner-container {
-    position: relative;
+    /* position: relative; */
     margin: auto;
-    width: 75%;
+    width: 70%;
 }
 
 .row {
@@ -60,8 +60,6 @@ h3 {
 }
 
 .hello-world {
-    width: 460px;
-    height: 350px;
     margin-left: 100px;
     padding-top: 10px;
     padding-left: 10px;
@@ -70,8 +68,6 @@ h3 {
 }
 
 .hello-shadow {
-    width: 460px;
-    height: 350px;
     box-shadow: 9px 9px 9px grey;
     background-color: lightyellow;
     color: black;
@@ -83,7 +79,7 @@ h3 {
 
 .host-pic {
     padding-top: 15px;
-    width: 350px;
+    width: 330px;
     height: 390px;
     border-radius: 50%;
 }
