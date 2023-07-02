@@ -15,3 +15,11 @@ function addHello(element) {
 function removeHello(element) {
     element.classList.remove("hello-shadow")
 }
+
+function addSNote(element) {
+    element.classList.add("s-note");
+}
+
+function removeSNote(element) {
+    element.classList.remove("s-note")
+}
