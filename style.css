@@ -58,7 +58,15 @@
 
 .technologies {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+}
+
+.languages {
+    background-color: green;
+}
+
+.databases {
+    background-color: blue;
 }
 
 .body-tech {
