@@ -47,7 +47,7 @@ h3 {
 
 .about-me {
     position: relative;
-    margin-left: 250px;
+    margin-left: 300px;
     margin-right: 250px;
     display: flex;
     gap: 250px;
@@ -56,10 +56,10 @@ h3 {
 
 .hello-world {
     width: 460px;
-    height: 380px;
+    height: 400px;
     padding-top: 10px;
     border-radius: 15px;
-    background-color: green;
+    background-color: lightyellow;
 }
 
 .host-pic {
