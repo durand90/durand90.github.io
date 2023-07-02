@@ -8,6 +8,10 @@ function removeShadow(element) {
     element.classList.remove("shadow");
 };
 
-function meShadow(this) {
-    element.classList.add("about");
+function addHello(element) {
+    element.classList.add("hello-shadow");
+};
+
+function removeHello(element) {
+    element.classList.remove("hello-shadow")
 }

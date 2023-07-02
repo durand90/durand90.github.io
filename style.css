@@ -54,21 +54,24 @@ h3 {
     background-color: orange;
 }
 
-.aboutMe {
-    box-shadow: 9px 9px 9px #999;
-    background-color: #999;
-    color: black;
-    border-radius: 15px;
-    position: relative;
-    bottom: 5px;
-    cursor: pointer;
-}
 .hello-world {
     width: 460px;
     height: 400px;
     padding-top: 10px;
     border-radius: 15px;
     background-color: lightyellow;
+}
+
+.hello-shadow {
+    width: 460px;
+    height: 400px;
+    box-shadow: 9px 9px 9px grey;
+    background-color: lightyellow;
+    color: black;
+    border-radius: 15px;
+    position: relative;
+    bottom: 5px;
+    cursor: pointer;
 }
 
 .host-pic {
