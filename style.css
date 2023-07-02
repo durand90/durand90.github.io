@@ -59,14 +59,19 @@
 .technologies {
     display: flex;
     justify-content: space-evenly;
-    margin-left: 120px;
-    margin-right: 50px;
+    margin-left: 230px;
+    margin-right: 150px;
 }
 
 .sub-tech {
-    background-color: green;
+    background-color: lightgrey;
     border-radius: 15px;
-    width: 250px;
+    width: 260px;
+}
+
+.sub-inner {
+    align-content: center;
+    margin-left: 45px;
 }
 
 
