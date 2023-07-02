@@ -100,6 +100,7 @@ h3 {
 
 .img-text {
     text-align: center;
+    margin-top: 0;
 }
 
 .technologies {
@@ -107,43 +108,63 @@ h3 {
     justify-content: space-evenly;
 }
 
-    .sub-tech {
-        background-color: lightgrey;
-        border-radius: 15px;
-        width: 260px;
-        border: 1px solid green;
-    }
+.sub-tech {
+    background-color: lightgrey;
+    /* border-radius: 15px; */
+    width: 260px;
+}
 
 
-    .tech-lang {
-        transform: rotate(-3deg);
-    }
+.tech-lang {
+    transform: rotate(-3deg);
+    background-color: green;
+}
 
-    
+.tech-data {
+    transform: rotate(5deg);
+    background-color: pink;
+}
+
+.tech-frame {
+    transform: rotate(3deg);
+    background-color: orange;
+}
+
+.tech-tools {
+    transform: rotate(-2deg);
+    background-color: skyblue;
+}
+
+.s-note {
+    /* box-shadow: 9px 9px 9px gray; */
+
+}
 
 
-    .sub-inner {
-        align-content: center;
-        margin-left: 35px;
-    }
+.sub-inner {
+    align-content: center;
+    margin-left: 35px;
+}
 
 
-    .body-tech {
-        display: flex;
-        justify-content: center;
-    }
+.body-tech {
+    display: flex;
+    justify-content: center;
+}
 
+.reach-me {
+    margin-top: 40px;
+}
 
-    .footer {
-        display: flex;
-        justify-content: space-evenly;
-        padding-top: 40px;
-        /* background-color: olive; */
-        border-radius: 15px;
-        gap: 50px;
-    }
-    
-    .phone-number {
-        color: black;
-        margin-top: 0;
-    }
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 15px;
+    gap: 50px;
+    margin-top: 30px;
+}
+
+.phone-number {
+    color: black;
+    margin-top: 0;
+}
