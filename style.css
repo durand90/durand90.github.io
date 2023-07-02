@@ -61,6 +61,11 @@
     justify-content: space-evenly;
 }
 
+.body-tech {
+    display: flex;
+    justify-content: center;
+}
+
 
 .footer {
     display: flex;
