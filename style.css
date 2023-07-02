@@ -20,6 +20,10 @@
     padding: 5px;
 }
 
+.nav-bar {
+    text-decoration: none;
+}
+
 .shadow {
     box-shadow: 0 9px 9px #999;
     background-color: #999;
@@ -156,12 +160,13 @@ h3 {
 
 .reach-me {
     margin-top: 40px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 .base-foot {
-    margin-top: 60px;
-    box-shadow: 9px 9px 9px 0 grey;
+    margin-top: 80px;
+    box-shadow: 0 9px 9px 9px grey;
 }
 
 .footer {
@@ -174,4 +179,8 @@ h3 {
 .phone-number {
     color: black;
     margin-top: 0;
+}
+
+.section-word {
+    margin-left: 12px;
 }
