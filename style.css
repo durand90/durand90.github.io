@@ -58,16 +58,17 @@
 
 .technologies {
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 120px;
+    margin-right: 50px;
 }
 
-.languages {
+.sub-tech {
     background-color: green;
+    border-radius: 15px;
+    width: 250px;
 }
 
-.databases {
-    background-color: blue;
-}
 
 .body-tech {
     display: flex;
