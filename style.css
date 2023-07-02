@@ -3,6 +3,7 @@
 }
 
 .inner-container {
+    position: relative;
     margin: auto;
     width: 75%;
 }
@@ -16,7 +17,7 @@
 }
 
 .sub {
-
+    padding: 5px;
 }
 
 .shadow {
@@ -35,11 +36,19 @@
     transform: translateY(4px);
 }
 
+.profile-link {
+    text-decoration: none;
+}
+
 h3 {
     color: grey;
 }
 
 .header {
+    text-align: center;
+}
+
+.full {
     text-align: center;
 }
 
@@ -52,7 +61,7 @@ h3 {
 
 .hello-world {
     width: 460px;
-    height: 400px;
+    height: 350px;
     margin-left: 100px;
     padding-top: 10px;
     padding-left: 10px;
@@ -62,7 +71,7 @@ h3 {
 
 .hello-shadow {
     width: 460px;
-    height: 400px;
+    height: 350px;
     box-shadow: 9px 9px 9px grey;
     background-color: lightyellow;
     color: black;
@@ -133,7 +142,7 @@ h3 {
 
 .s-note {
     background-color: lightyellow;
-    box-shadow: 0 9px 9px gray;
+    box-shadow: 11px 11px 11px grey;
 
 }
 
