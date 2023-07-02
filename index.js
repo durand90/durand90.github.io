@@ -9,5 +9,5 @@ function removeShadow(element) {
 };
 
 function meShadow(this) {
-    element.classList.add("about-Shadow");
+    element.classList.add("about-shadow");
 }
