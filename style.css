@@ -3,7 +3,6 @@
 }
 
 .inner-container {
-    /* position: relative; */
     margin: auto;
     width: 70%;
 }
@@ -14,10 +13,6 @@
     justify-content: space-evenly;
     text-decoration: none;
 
-}
-
-.sub {
-    padding: 5px;
 }
 
 .nav-bar {
@@ -57,14 +52,13 @@ h3 {
 }
 
 .about-me {
-    position: relative;
     display: flex;
-    gap: 250px;
-    /* background-color: orange; */
+    margin-right: 80px;
+    gap: 270px;
 }
 
 .hello-world {
-    margin-left: 100px;
+    margin-left: 80px;
     padding-top: 10px;
     padding-left: 10px;
     border-radius: 15px;
@@ -83,9 +77,12 @@ h3 {
 
 .host-pic {
     padding-top: 15px;
-    width: 330px;
-    height: 390px;
+    width: 350px;
+    height: 400px;
     border-radius: 50%;
+    margin-top: 25px;
+    margin-right: 50px;
+    background-color: lightblue;
 }
 
 
@@ -122,7 +119,7 @@ h3 {
 
 .tech-lang {
     transform: rotate(-3deg);
-    background-color: green;
+    background-color: lightgreen;
 }
 
 .tech-data {
