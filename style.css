@@ -139,7 +139,7 @@ h3 {
 
 .s-note {
     background-color: lightyellow;
-    box-shadow: 3px 5px grey;
+    box-shadow: 0 9px 9px grey;
     transform: translateY(4px);
     cursor: pointer;
 
