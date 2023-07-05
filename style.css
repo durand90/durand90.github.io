@@ -140,6 +140,7 @@ h3 {
 .s-note {
     background-color: lightyellow;
     box-shadow: 11px 11px 11px grey;
+    cursor: pointer;
 
 }
 
