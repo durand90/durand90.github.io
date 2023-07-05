@@ -138,9 +138,9 @@ h3 {
 
 .s-note {
     background-color: lightyellow;
-    box-shadow: 0 9px 9px grey;
+    box-shadow: 9px 9px 9px grey;
     position: relative;
-    transform: translateY(4px);
+    transform: translateY(5px);
     cursor: pointer;
 
 }
