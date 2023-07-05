@@ -112,7 +112,6 @@ h3 {
 
 .sub-tech {
     background-color: lightgrey;
-    /* border-radius: 15px; */
     width: 260px;
 }
 
@@ -140,6 +139,7 @@ h3 {
 .s-note {
     background-color: lightyellow;
     box-shadow: 0 9px 9px grey;
+    position: relative;
     transform: translateY(4px);
     cursor: pointer;
 

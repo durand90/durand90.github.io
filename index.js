@@ -23,3 +23,8 @@ function addSNote(element) {
 function removeSNote(element) {
     element.classList.remove("s-note")
 }
+
+function darkMode(element) {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+}
